@@ -1,4 +1,5 @@
-# Automated-Setup-of-Multi-Tier-Appsetting up a scalable and robust web application
+# Automated-Setup-of-Multi-Tier-App
+setting up a scalable and robust web application
 infrastructure using technologies such as Vagrant,
 RabbitMQ, Tomcat, and Nginx.
 In this project, I utilized Vagrant to create a virtualized
